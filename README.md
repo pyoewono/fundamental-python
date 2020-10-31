@@ -1,2 +1,2 @@
 # fundamental-python
-Belajar Python dari dasar
+Fundamental python using pycharm
